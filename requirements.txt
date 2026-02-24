@@ -1,0 +1,9 @@
+langchain
+langgraph
+astrapy
+cassio
+faiss-cpu
+transformers
+sentence-transformers
+python-dotenv
+wikipedia
